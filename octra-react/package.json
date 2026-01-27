@@ -1,0 +1,11 @@
+{
+  "name": "octra-react",
+  "version": "0.1.0",
+  "main": "src/index.jsx",
+  "peerDependencies": {
+    "react": ">=16.8",
+    "octra-sdk": ">=0.2.0"
+  },
+  "author": "Qiubit Team",
+  "license": "MIT"
+}

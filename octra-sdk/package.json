@@ -1,0 +1,9 @@
+{
+  "name": "octra-sdk",
+  "version": "0.2.1",
+  "description": "Official SDK for Qiubit Wallet dApp integration",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Qiubit Team",
+  "license": "MIT"
+}

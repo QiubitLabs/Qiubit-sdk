@@ -1,0 +1,8 @@
+{
+  "name": "octra-core",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Qiubit Team",
+  "license": "MIT"
+}
